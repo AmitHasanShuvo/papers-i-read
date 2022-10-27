@@ -4,7 +4,7 @@ A repository of summaries and notes from papers I've read, primarily those with 
 
 ### Tags:
 
-MSR: Mining Software Repositories 
+MSR: Mining Software Repositories
 <br>
 SE: Software Engineering
 <br>
@@ -14,10 +14,8 @@ RE: Release Engineering
 <br>
 DA: Data Analytics
 
-
-
-|                **Papers I Read**                 |       **Authors**       | **Note Available?** |    **Tags**    |
-| :----------------------------------------------: | :---------------------: | :-----------------: | :------------: |
-| Noise and Heterogeneity in Historical Build Data | Keheliya Gallaba et al. |                     | RE, MSR SE, DA |
-|                                                  |                         |                     |                |
-|                                                  |                         |                     |                |
+|                **Papers I Read**                 |       **Authors**       | **Note Available?** |    **Tags**     |
+| :----------------------------------------------: | :---------------------: | :-----------------: | :-------------: |
+| Noise and Heterogeneity in Historical Build Data | Keheliya Gallaba et al. |                     | RE, MSR, SE, DA |
+|                                                  |                         |                     |                 |
+|                                                  |                         |                     |                 |
