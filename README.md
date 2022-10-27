@@ -16,6 +16,6 @@ DA: Data Analytics
 
 |                **Papers I Read**                 |       **Authors**       | **Note Available?** |    **Tags**     |
 | :----------------------------------------------: | :---------------------: | :-----------------: | :-------------: |
-| Noise and Heterogeneity in Historical Build Data | Keheliya Gallaba et al. |                     | RE, MSR, SE, DA |
+| Noise and Heterogeneity in Historical Build Data | Keheliya Gallaba et al. |         Yes         | RE, MSR, SE, DA |
 |                                                  |                         |                     |                 |
 |                                                  |                         |                     |                 |
