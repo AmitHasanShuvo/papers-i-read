@@ -17,5 +17,5 @@ DA: Data Analytics
 |                              **Papers I Read**                               |       **Authors**       | **Note/Annotated bibliography?** |    **Tags**     |
 | :--------------------------------------------------------------------------: | :---------------------: | :------------------------------: | :-------------: |
 |               Noise and Heterogeneity in Historical Build Data               | Keheliya Gallaba et al. |               Note               | RE, MSR, SE, DA |
-| Large-scale intent analysis for identifying large-review-effort code changes |    Song Wang et al.     |      Annotated bibliography      |     MSR, SE     |
+| Large-scale intent analysis for identifying large-review-effort code changes |    Song Wang et al.     |      Annotated bibliography      |   MSR, SE, ML   |
 |                                                                              |                         |                                  |                 |
