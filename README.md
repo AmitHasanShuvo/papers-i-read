@@ -14,8 +14,8 @@ RE: Release Engineering
 <br>
 DA: Data Analytics
 
-|                **Papers I Read**                 |       **Authors**       | **Note Available?** |    **Tags**     |
-| :----------------------------------------------: | :---------------------: | :-----------------: | :-------------: |
-| Noise and Heterogeneity in Historical Build Data | Keheliya Gallaba et al. |         Yes         | RE, MSR, SE, DA |
-|                                                  |                         |                     |                 |
-|                                                  |                         |                     |                 |
+|                              **Papers I Read**                               |       **Authors**       | **Note/Annotated bibliography?** |    **Tags**     |
+| :--------------------------------------------------------------------------: | :---------------------: | :------------------------------: | :-------------: |
+|               Noise and Heterogeneity in Historical Build Data               | Keheliya Gallaba et al. |               Note               | RE, MSR, SE, DA |
+| Large-scale intent analysis for identifying large-review-effort code changes |    Song Wang et al.     |      Annotated bibliography      |     MSR, SE     |
+|                                                                              |                         |                                  |                 |
