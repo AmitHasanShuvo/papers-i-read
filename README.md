@@ -2,17 +2,20 @@
 
 A repository of summaries and notes from papers I've read, primarily those with an emphasis on machine learning and software engineering. Updated frequently.
 
-### Tags
+#### Tags:
 
-MSR: Mining Software Repositories
+|            **Domain**             | **Tags** |
+| :-------------------------------: | :------: |
+|   Mining Software Repositories    |   MSR    |
+|       Software Engineering        |    SE    |
+|         Machine Learning          |    ML    |
+|           Deep Learning           |    DL    |
+|        Release Engineering        |    RE    |
+| Continuous Integration/Deployment |  CI/CD   |
+
 <br>
-SE: Software Engineering
-<br>
-ML: Machine Learning
-<br>
-RE: Release Engineering
-<br>
-DA: Data Analytics
+
+Full list of papers along with tags are listed below:
 
 |                                                                              **Papers I Read**                                                                              |       **Authors**       | **Note/Annotated bibliography?** |    **Tags**     |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: | :------------------------------: | :-------------: |
@@ -27,4 +30,4 @@ DA: Data Analytics
 |                                                                 Sampling Projects in GitHub for MSR Studies                                                                 |      Ozren et al.       |      Annotated bibliography      |       MSR       |
 | What kind of questions do developers ask on Stack Overflow? A comparison of automated approaches to classify posts into question categories. Empirical Software Engineering |     Stefanie et al.     |      Annotated bibliography      |   MSR, SE, ML   |
 |                                              What’s a Typical Commit? A Characterization of Open Source Software Repositories                                               |   Abdulkareem et al.    |      Annotated bibliography      |   MSR, SE, ML   |
-|                                              One Size Does Not Fit All:  An Empirical Study of Containerized Continuous Deployment Workflows                                               |   Zhang et al.    |      Summary      |   MSR, SE, CI   |
+|                                       One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows                                        |      Zhang et al.       |             Summary              |   MSR, SE, CI   |
